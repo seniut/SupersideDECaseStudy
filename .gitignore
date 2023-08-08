@@ -1,0 +1,5 @@
+/APIs/crunchbase/.pytest_cache/
+/APIs/crunchbase/destination/
+.idea
+/venv/
+/APIs/crunchbase/test_crunch/
