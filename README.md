@@ -60,7 +60,7 @@ flowchart LR
     N <--> I
     N <--> II
 ```
-0. Data Sources:
+0. **Data Sources:**
 
 This component represents the diverse sources of data that our architecture is designed to handle. 
 These sources include structured, semi-structured, and unstructured data from various systems and applications.
@@ -256,6 +256,7 @@ two modes are available:
 
 first step (creating and activating venv): _can be made with bash script_
 ```bash
+  cd crunchbase
   python3 -m venv test_crunchbase
   source test_crunchbase/bin/activate
   pip install -r requirements.txt  
